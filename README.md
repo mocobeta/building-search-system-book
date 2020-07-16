@@ -70,8 +70,8 @@
 - シノニム展開
 - 検索クエリ補完やサジェスチョン，Query Understanding について
 - 検索結果の良さの測り方: オフライン指標，オンライン指標
+- オンライン評価の設計と運用: A/Bテストなど
 - ランキング学習 (Learning to Rank)
-
 
 ### 6章 ユーザーインターフェース
 
@@ -92,8 +92,6 @@
 
 - toC 検索システム事例
 - toB 検索システム事例
-- オンライン評価の設計と運用: A/Bテストなど
-- 大規模/高トラフィック検索システムの設計と運用
 
 ### 8章 応用トピック
 
@@ -101,13 +99,13 @@
 
 関連の深い周辺システムや，最先端の研究に学ぶ章。
 
+- 大規模/高トラフィック検索システムの設計と運用
 - 推薦システムとの関わり
 - QAシステム（自然文検索）との関わり
 - 画像検索，マルチモーダル検索
 - Online Learning to Rank
 - Personalized Search
-- Semantic Search
-- Knowledge Graph
+- Semantic Search / Knowledge Graph
 - Dense vector search / approximate knn search
 - Neural Networks for IR
 - プライバシーと情報検索 (Privacy-preserving IR)
