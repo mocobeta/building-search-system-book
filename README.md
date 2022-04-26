@@ -10,7 +10,7 @@
 
 [新刊『検索システム ― 実務者のための開発改善ガイドブック』のお知らせ](https://www.lambdanote.com/blogs/news/ir-system)
 
-[検索システム ― 実務者のための開発改善ガイドブック](https://www.lambdanote.com/collections/frontpage/products/ir-system-ebook)
+[検索システム ― 実務者のための開発改善ガイドブック（電子書籍のみ）](https://www.lambdanote.com/collections/frontpage/products/ir-system-ebook)
 （打田智子・古澤智裕・大谷 純・加藤 遼・鈴木翔吾・河野晋策 共著）
 
 情報検索の歴史を紐解くところから始まり，検索エンジン，ユーザーインターフェース，性能評価，プロジェクト運営，Query Understanding，ランキング学習，と幅広いトピックをカバーした内容になっており，「実務家のためのあたらしい教科書」を目指して著者一同頑張って執筆しました。
